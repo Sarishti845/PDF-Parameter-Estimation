@@ -31,15 +31,12 @@ After preprocessing, only valid NO₂ samples were retained.
 
 The non-linear transformation applied to input feature \( x \) is:
 
-\[
-z = x + a_r \sin(b_r x)
-\]
+z = x + a_r · sin(b_r · x)
 
 Where:
-\[
-a_r = 0.05 \times (r \bmod 7), \quad b_r = 0.3 \times (r \bmod 5 + 1)
-\]
 
+a_r = 0.05 × (r mod 7)
+b_r = 0.3 × (r mod 5 + 1)
 ### Computed Values
 
 | Parameter | Value |
