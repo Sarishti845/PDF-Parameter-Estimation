@@ -52,10 +52,7 @@ a_r = 0.05 \times (r \bmod 7), \quad b_r = 0.3 \times (r \bmod 5 + 1)
 ## 📈 Probability Density Function
 The PDF to be learned is defined as:
 
-\[
-\hat{p}(z) = c \cdot e^{-\lambda (z - \mu)^2}
-\]
-
+p̂(z) = c · exp(−λ (z − μ)²)
 This corresponds to a Gaussian-type distribution where \( \mu \), \( \lambda \), and \( c \) are the parameters to be learned.
 
 ---
