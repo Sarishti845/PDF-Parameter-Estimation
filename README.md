@@ -51,7 +51,7 @@ The PDF to be learned is defined as:
 
 p̂(z) = c · exp(−λ (z − μ)²)
 
-This corresponds to a Gaussian-type distribution where \( \mu \), \( \lambda \), and \( c \) are the parameters to be learned.
+This corresponds to a Gaussian-type distribution, where μ, λ, and c are the parameters to be learned.
 
 ---
 
