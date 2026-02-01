@@ -35,7 +35,7 @@ z = x + a_r · sin(b_r · x)
 
 Where:
 
-a_r = 0.05 × (r mod 7)
+a_r = 0.05 × (r mod 7),
 b_r = 0.3 × (r mod 5 + 1)
 ### Computed Values
 
