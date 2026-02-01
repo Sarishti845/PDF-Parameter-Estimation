@@ -86,9 +86,6 @@ This corresponds to a Gaussian-type distribution where \( \mu \), \( \lambda \),
 <p align="center">
   <img src="fit_plot.png" width="700">
 </p>
-
-![Histogram of Transformed Variable z with Fitted PDF](fit_plot.png)
-
 ---
 
 ## 📤 Submission Values
