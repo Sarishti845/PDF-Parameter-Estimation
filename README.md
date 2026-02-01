@@ -7,7 +7,7 @@ The objective of this assignment is to learn the parameters of a probability den
 
 ## 📊 Dataset Description
 - **Dataset:** India Air Quality Data (Kaggle)
-- **File Used:** `data.csv`
+- **File Used:** `https://www.kaggle.com/datasets/shrutibhargava94/india-air-quality-data`
 - **Feature Selected:** `NO₂` (Nitrogen Dioxide concentration)
 
 Only the NO₂ feature is used for this assignment.
