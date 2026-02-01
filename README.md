@@ -45,7 +45,7 @@ a_r = 0.05 \times (r \bmod 7), \quad b_r = 0.3 \times (r \bmod 5 + 1)
 | Parameter | Value |
 |---------|-------|
 | a_r | 0.20 |
-| b_r | 0.90 |
+| b_r | 0.89 |
 
 ---
 
